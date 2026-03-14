@@ -1,0 +1,53 @@
+student-platform-terraform
+│
+├── providers.tf
+├── variables.tf
+├── outputs.tf
+├── main.tf
+│
+├── modules
+│
+│   ├── resource_group
+│   │       main.tf
+│   │       variables.tf
+│   │       outputs.tf
+│
+│   ├── network
+│   │       main.tf
+│   │       variables.tf
+│   │       outputs.tf
+│
+│   ├── monitoring
+│   │       main.tf
+│   │       variables.tf
+│   │       outputs.tf
+│
+│   ├── storage
+│   │       main.tf
+│   │       variables.tf
+│   │       outputs.tf
+│
+│   ├── sqldb
+│   │       main.tf
+│   │       variables.tf
+│   │       outputs.tf
+│
+│   ├── keyvault
+│   │       main.tf
+│   │       variables.tf
+│   │       outputs.tf
+│
+│   ├── appservice
+│   │       main.tf
+│   │       variables.tf
+│   │       outputs.tf
+│
+│   ├── appgateway
+│   │       main.tf
+│   │       variables.tf
+│   │       outputs.tf
+│
+│   └── acr
+│           main.tf
+│           variables.tf
+│           outputs.tf
