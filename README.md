@@ -133,7 +133,7 @@ Terraform learning
 Azure infrastructure automation
 
 ---
-**#Code to Push into Repo**
+# First Git Push Commands
 
 git init
 git add .
