@@ -133,8 +133,18 @@ Terraform learning
 Azure infrastructure automation
 
 ---
+**#Code to Push into Repo**
+
+git init
+git add .
+git commit -m "Initial commit - Azure 3 Tier Terraform Infrastructure"
+git branch -M main
+git remote add origin https://github.com/username/repo-name.git
+git push -u origin main
+
+
 
 # Author
 
 Lakshmi Narayana Kurela
-Cloud | DevOps | Azure Infrastructure
+Cloud Architect
