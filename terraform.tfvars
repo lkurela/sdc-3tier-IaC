@@ -1,4 +1,4 @@
-location      = "East US"
+location      = "eastus2"
 project_name  = "studentplatform"
 environment   = "dev"
 
