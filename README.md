@@ -16,6 +16,10 @@ The infrastructure follows enterprise cloud architecture principles including:
 
 # Architecture
 
+
+
+
+
 The solution deploys a **3-Tier architecture** consisting of:
 
 Frontend Tier
